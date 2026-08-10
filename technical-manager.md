@@ -1,0 +1,1 @@
+The Technical Manager oversees the technical development and ensures that the project is built using proper development practices. They coordinate developers, review technical work, maintain code quality, and help solve technical problems.
