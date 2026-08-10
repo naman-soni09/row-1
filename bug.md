@@ -1,1 +1,1 @@
-when bug comes call me and i will check that problem and solve bug
+This is file dedicated to the bug and fix
